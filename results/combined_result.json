@@ -1,0 +1,8 @@
+{
+  "loss": "combined",
+  "best_epoch": 17,
+  "validation_iou": 0.8748367601817345,
+  "test_loss": 0.21520360357171997,
+  "test_iou": 0.8751988396537933,
+  "test_dice": 0.9334464390084372
+}
